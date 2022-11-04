@@ -28,5 +28,5 @@ root
 |   |   │   │   xxxx.png
 |   |   │   └───...
 ```
-3. Modify the ```test\_only.py```  according to the stage that you would like to test. (both checkpoint name and the function name to load the models).
+3. Modify the ```test_only.py```  according to the stage that you would like to test. (both checkpoint name and the function name to load the models).
 4. The folder for output will be generated according to the checkpoint name.
