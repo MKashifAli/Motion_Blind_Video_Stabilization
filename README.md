@@ -6,7 +6,7 @@ The Dataset can be downloaded from [this link](https://hyu-my.sharepoint.com/:u:
 
 
 ### Test scripts
-Download the model checkpoints (all stages) from [this link](https://hyu-my.sharepoint.com/:u:/g/personal/kashifali_hanyang_ac_kr/EYJI4NLx_DFNtbC2wZkucjYBXI8MpAUfm5JDVnsCTZePQQ?e=wgeQ8o)
+Download the model checkpoints (all stages) from [this link](https://hyu-my.sharepoint.com/:u:/g/personal/kashifali_hanyang_ac_kr/EYJI4NLx_DFNtbC2wZkucjYBDe3aJj0pDn-USQtPTiI8tQ?e=USbYGJ)
 
 1. Extract the model checkpoints to the root directory.
 2. Place the frames for videos in folders in the following format and pass the path to the folder containing videos (split into frames) to ```root```.
