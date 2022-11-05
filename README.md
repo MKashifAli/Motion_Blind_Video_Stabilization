@@ -30,3 +30,18 @@ root
 ```
 3. Modify the ```test_only.py```  according to the stage that you would like to test. (both checkpoint name and the function name to load the models).
 4. The folder for output will be generated according to the checkpoint name.
+
+
+
+## Citation
+
+If you find this useful for your research, please cite the following paper:
+
+``` text
+@article{ali2020deep,
+  title={Deep Motion Blind Video Stabilization},
+  author={Ali, Muhammad Kashif and Yu, Sangjoon and Kim, Tae Hyun},
+  journal={arXiv preprint arXiv:2011.09697},
+  year={2020}
+}
+```
